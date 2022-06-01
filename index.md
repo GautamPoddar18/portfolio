@@ -10,14 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-#  Augmented Reality Based Maps for Tourism
+## Machine learning
 
-This project is an attempt to apply the Augmented Reality technology in the field of tourism.
-Its aims to develop an android mobile phone application that will provide an AR guide for the tourists during the travel.
+### Fraud Detection
 
-### Large image
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 
-![Branching](https://guides.github.com/activities/hello-world/AR logo.jpg)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GautamPoddar18/fraud_detection)
+
+<center><img src="AR logo.jpg"/></center>
 
 # Image Classification
 
